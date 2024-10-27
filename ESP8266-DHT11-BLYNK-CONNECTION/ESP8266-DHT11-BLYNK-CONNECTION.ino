@@ -9,8 +9,8 @@
 #include <BlynkSimpleEsp8266.h>
 #include <DHT.h>
 
-char ssid[] = "realme8";
-char pass[] = "1234567890";
+char ssid[] = "        ";
+char pass[] = "        ";
 
 DHT dht(DHTPIN, DHTTYPE);
 
